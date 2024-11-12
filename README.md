@@ -1,5 +1,5 @@
 # Группа: ЭФБО-02-22 
-# Мудрицын Михаил Евгеньевич
+# Берлов Дмитрий Максимович
 
 
 ![image](https://github.com/user-attachments/assets/03ae85c8-fe15-4ba1-82ad-7c2d12fcf63b)
